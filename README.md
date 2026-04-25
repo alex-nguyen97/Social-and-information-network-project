@@ -13,19 +13,7 @@ It includes:
 
 ```
 social and information network analysis/
-├── ASTRO-PH/
-│   ├── CA-AstroPh-train.txt
-│   └── CA-AstroPh-test.txt
-├── stranger things/
-│   ├── st-s1-edges.csv
-│   ├── st-s1-nodes.csv
-│   ├── st-s2-edges.csv
-│   ├── st-s2-nodes.csv
-│   ├── st-s3-edges.csv
-│   ├── st-s3-nodes.csv
-│   ├── st-s4-edges.csv
-│   └── st-s4-nodes.csv
-└── code/
+── code/
 	 ├── A3_25608100.ipynb      # Main assignment notebook
 	 ├── 42913_AS3.ipynb        # Ignore for this assignment flow
 	 ├── train_data.csv         # Generated during feature extraction
